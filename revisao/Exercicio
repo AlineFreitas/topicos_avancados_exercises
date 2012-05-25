@@ -1,0 +1,11 @@
+-Cadastrar Aluno
+    *nome
+    *matrícula
+-Cadastrar Curso
+    *nome
+    *tipo [bacharelado, tecnólogo]
+-Cadastrar Turma
+    *turno
+    *curso
+-Enturmar aluno
+-Listar alunos
